@@ -1,0 +1,11 @@
+Fit Features:
+
+CRUDs:
+1. Users; CRUD
+2. Exercises: CRUD
+3. Daily Exercises: CRUD
+4. History: CD
+
+Additional Features:
+1. notification that comes through while letting exterior audio coming through.
+2. streaks, account for 
